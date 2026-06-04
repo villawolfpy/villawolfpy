@@ -3,9 +3,9 @@
 No soy dev. Tengo ideas, uso IA para construirlas, y las subo.  
 Bitcoin & DeFi.
 
-🔸 DeFi explorer  
+🔸 BTCfi explorer  
 🔸 Vibe coder — Cursor + Claude  
-🔸 Apoyando a BPT - Bitcoin Para Todos PY
+🔸 Apoyando a BPT -
 
 ---
 
